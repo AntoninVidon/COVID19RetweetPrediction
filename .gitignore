@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__/
+Data/
+Preprocessing/Data/
+Text_Clustering/Data/
+DNN_BERT/Tensors/
