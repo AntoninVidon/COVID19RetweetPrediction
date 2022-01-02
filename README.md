@@ -1,10 +1,8 @@
 # COVID19 Retweet Prediction
 
-## TeamWeaver
-
 ![jupyter notebook x python](https://img.shields.io/badge/jupyter%20notebook-python-orange)![DeepLearning x DNN](https://img.shields.io/badge/DeepLearning-DNN-blue)![ML x Regressions](https://img.shields.io/badge/MachineLearning-Regressions-ff69b4)
 
-We worked relentlessly as a united team to accurately predict the number of retweets a tweet can get. We started by extracting relevant features and then applying Machine Learning and Deep Learning concepts we learned through out the course.
+We worked as a team to accurately predict the number of retweets a tweet can get. We started by extracting relevant features and then applied Machine Learning and Deep Learning techniques we learned through out the course.
 
 ## Path to original data
 
@@ -18,7 +16,7 @@ In the **preprocessing** folder, you will find `General_preprocessing.ipynb`. Ex
 
 ### Visualisation
 
-In the folder **Visualisation** you will find `Data_visualisation.ipynb`. You can execute it to visualise the correlation matrix and other miscellaneous plots. 
+In the folder **Visualisation** you will find `Data_visualisation.ipynb`. You can execute it to visualize the correlation matrix and other miscellaneous plots. 
 
 ### Text clustering
 
